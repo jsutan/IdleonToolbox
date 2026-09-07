@@ -300,13 +300,13 @@ self.__BUILD_MANIFEST = {
     "static/chunks/3pr9__hjdeu3l.js"
   ],
   "/tools/builds/edit": [
-    "static/chunks/06tlpt_pd0c-m.js"
+    "static/chunks/0tvwl6m_m5wi6.js"
   ],
   "/tools/builds/my-builds": [
     "static/chunks/3mhah196b1qc2.js"
   ],
   "/tools/builds/new": [
-    "static/chunks/2mxyj6f4jajb9.js"
+    "static/chunks/3ujzldfs-kuh2.js"
   ],
   "/tools/builds/view": [
     "static/chunks/0v185ffly833t.js"
