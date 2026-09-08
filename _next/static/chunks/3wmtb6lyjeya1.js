@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/account/world-2/arcade-shop", [
+  "static/chunks/3z5yr-s7bxy1y.js",
+  "static/chunks/0_vel1973jndl.js",
+  "static/chunks/16bisl8o8q4tm.js",
+  "static/chunks/3quiv00ovk018.js",
+  "static/chunks/00ys_eh-410be.js",
+  "static/chunks/35-186y6wm__6.js",
+  "static/chunks/12y-0ru4s44ei.js",
+  "static/chunks/1ir4i_xr1vm25.js",
+  "static/chunks/02izvnovrj152.js",
+  "static/chunks/0dj18xc8uzhaq.js",
+  "static/chunks/3mxq2e7z-8_aa.js",
+  "static/chunks/0jcr1ry-xkb3q.js",
+  "static/chunks/2vfnndu_slyq0.js",
+  "static/chunks/237ss25cs_pok.js",
+  "static/chunks/431p2lz4-5gja.js",
+  "static/chunks/3ooburxnozkoo.js",
+  "static/chunks/27iu4at4e-0t9.js",
+  "static/chunks/turbopack-2uis1nex7ib5x.js"
+])
