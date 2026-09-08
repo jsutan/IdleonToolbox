@@ -1,0 +1,19 @@
+__turbopack_load_page_chunks__("/account/world-7/zenith-market", [
+  "static/chunks/0_vel1973jndl.js",
+  "static/chunks/2-fcyubuol0zz.js",
+  "static/chunks/1e5a_0qvp1u5w.js",
+  "static/chunks/1ir4i_xr1vm25.js",
+  "static/chunks/00ys_eh-410be.js",
+  "static/chunks/1fvi82bj366bh.js",
+  "static/chunks/12y-0ru4s44ei.js",
+  "static/chunks/0ox-rht82xh5u.js",
+  "static/chunks/3mxq2e7z-8_aa.js",
+  "static/chunks/2vfnndu_slyq0.js",
+  "static/chunks/27iu4at4e-0t9.js",
+  "static/chunks/2p4ew1xodv-q2.js",
+  "static/chunks/330c_o3bskvgs.js",
+  "static/chunks/3ooburxnozkoo.js",
+  "static/chunks/22o4nmjknpxr-.js",
+  "static/chunks/0dj18xc8uzhaq.js",
+  "static/chunks/turbopack-06hfu409bgcf7.js"
+])

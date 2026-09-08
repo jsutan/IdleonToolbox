@@ -1,0 +1,22 @@
+__turbopack_load_page_chunks__("/tools/material-tracker", [
+  "static/chunks/0_vel1973jndl.js",
+  "static/chunks/2pmstlq-5iomm.js",
+  "static/chunks/16bisl8o8q4tm.js",
+  "static/chunks/22o4nmjknpxr-.js",
+  "static/chunks/3llzq72c5ld5m.js",
+  "static/chunks/0xq1bxircrwf7.js",
+  "static/chunks/12y-0ru4s44ei.js",
+  "static/chunks/0hug7va8w_jmp.js",
+  "static/chunks/3_38uj5ku33qm.js",
+  "static/chunks/2p4ew1xodv-q2.js",
+  "static/chunks/3mxq2e7z-8_aa.js",
+  "static/chunks/3zdpor-kiip0p.js",
+  "static/chunks/00ys_eh-410be.js",
+  "static/chunks/2vfnndu_slyq0.js",
+  "static/chunks/1ir4i_xr1vm25.js",
+  "static/chunks/0ox-rht82xh5u.js",
+  "static/chunks/3ooburxnozkoo.js",
+  "static/chunks/0dj18xc8uzhaq.js",
+  "static/chunks/36if01-9924mv.js",
+  "static/chunks/turbopack-3mqq_155cgyv4.js"
+])

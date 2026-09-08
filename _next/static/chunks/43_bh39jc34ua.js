@@ -1,0 +1,19 @@
+__turbopack_load_page_chunks__("/account/world-3/prayers", [
+  "static/chunks/32tojhjmfhj-h.js",
+  "static/chunks/0_vel1973jndl.js",
+  "static/chunks/16bisl8o8q4tm.js",
+  "static/chunks/1ir4i_xr1vm25.js",
+  "static/chunks/00ys_eh-410be.js",
+  "static/chunks/1ss141sk5qi8n.js",
+  "static/chunks/12y-0ru4s44ei.js",
+  "static/chunks/2vfnndu_slyq0.js",
+  "static/chunks/3ooburxnozkoo.js",
+  "static/chunks/3mxq2e7z-8_aa.js",
+  "static/chunks/3cf8i1r2zfvkj.js",
+  "static/chunks/2p4ew1xodv-q2.js",
+  "static/chunks/27iu4at4e-0t9.js",
+  "static/chunks/160y6mw8rrblw.js",
+  "static/chunks/22o4nmjknpxr-.js",
+  "static/chunks/0dj18xc8uzhaq.js",
+  "static/chunks/turbopack-3eo6rf9hri-yq.js"
+])
